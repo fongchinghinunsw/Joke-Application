@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Joke Application</string>
+    <string name="btn_text">Tap Here to Get a New Joke!</string>
+</resources>
